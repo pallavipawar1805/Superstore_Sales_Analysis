@@ -4,6 +4,9 @@ An interactive **Superstore Sales Analysis Dashboard** built using **Power BI**,
 This project demonstrates my ability to clean, visualize, and interpret data to support data-driven business decisions.
 
 ---
+## 🖼️ Dashboard Preview
+
+![Superstore Sales Dashboard](Sc1.png)
 
 ## 🚀 Project Overview
 
